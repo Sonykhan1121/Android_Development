@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_up_logo">Sign Up Logo</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+</resources>
