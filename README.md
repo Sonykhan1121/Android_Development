@@ -13,4 +13,8 @@
 4) ### Design Custom layout for button and TextView
 ![customlayoutwithbuttonEdittext](https://github.com/Sonykhan1121/Android_Development/assets/45848552/ab6bdd85-a354-4a0f-9bc3-0ebc2da48f2f)
 
+5) ### Made a CardView in Constraints Layout
+![cardview](https://github.com/Sonykhan1121/Android_Development/assets/45848552/1195b50d-f0cb-4e96-a9ad-43a0ff407f63)
+
+
    
