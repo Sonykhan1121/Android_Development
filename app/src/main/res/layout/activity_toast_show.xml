@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ToastShowActivity">
+
+    <Button
+        android:id="@+id/default_btn"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:backgroundTint="#4CAF50"
+        android:text="Default_Button"
+        app:cornerRadius="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/Success_btn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.077"
+        app:layout_constraintVertical_chainStyle="packed" />
+
+    <Button
+        android:id="@+id/Success_btn"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:backgroundTint="#4CAF50"
+        android:text="Success"
+        app:cornerRadius="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/Info_btn"
+        app:layout_constraintEnd_toEndOf="@+id/default_btn"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="@+id/default_btn"
+        app:layout_constraintTop_toBottomOf="@+id/default_btn" />
+
+    <Button
+        android:id="@+id/Info_btn"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:backgroundTint="#4CAF50"
+        android:text="Info"
+        app:cornerRadius="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/normal_btn"
+        app:layout_constraintEnd_toEndOf="@+id/Success_btn"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="@+id/Success_btn"
+        app:layout_constraintTop_toBottomOf="@+id/Success_btn" />
+
+    <Button
+        android:id="@+id/normal_btn"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:backgroundTint="#4CAF50"
+        android:text="Button"
+        app:cornerRadius="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/warning_btn"
+        app:layout_constraintEnd_toEndOf="@+id/Info_btn"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="@+id/Info_btn"
+        app:layout_constraintTop_toBottomOf="@+id/Info_btn" />
+
+    <Button
+        android:id="@+id/warning_btn"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:backgroundTint="#4CAF50"
+        android:text="Warning"
+        app:cornerRadius="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/error_btn"
+        app:layout_constraintEnd_toEndOf="@+id/normal_btn"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="@+id/normal_btn"
+        app:layout_constraintTop_toBottomOf="@+id/normal_btn" />
+
+    <Button
+        android:id="@+id/error_btn"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:backgroundTint="#4CAF50"
+        android:text="Error"
+        app:cornerRadius="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/confusion_btn"
+        app:layout_constraintEnd_toEndOf="@+id/warning_btn"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="@+id/warning_btn"
+        app:layout_constraintTop_toBottomOf="@+id/warning_btn" />
+
+    <Button
+        android:id="@+id/confusion_btn"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:backgroundTint="#4CAF50"
+        android:text="Confusing"
+        app:cornerRadius="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/error_btn"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="@+id/error_btn"
+        app:layout_constraintTop_toBottomOf="@+id/error_btn" />
+</androidx.constraintlayout.widget.ConstraintLayout>
