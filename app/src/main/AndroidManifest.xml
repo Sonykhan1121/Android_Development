@@ -13,7 +13,8 @@
         android:theme="@style/Theme.FirstApplication"
         tools:targetApi="31">
         <activity
-            android:name=".ToastShowActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar"
+            android:name=".SetMenuBarActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -22,16 +23,19 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".CardViewActivity"
+            android:name=".ToastShowActivity"
             android:exported="true">
 
         </activity>
         <activity
-            android:name=".CustomViewActivity"
+            android:name=".CardViewActivity"
             android:exported="true"></activity>
         <activity
+            android:name=".CustomViewActivity"
+            android:exported="true" />
+        <activity
             android:name=".ConstraintLayoutActivity"
-            android:exported="true"></activity>
+            android:exported="true" />
         <activity
             android:name=".LinearLayoutUIActivity"
             android:exported="false" />

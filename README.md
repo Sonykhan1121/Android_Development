@@ -27,4 +27,12 @@
 ![T5](https://github.com/Sonykhan1121/Android_Development/assets/45848552/427394fd-c4bd-4049-8f6e-abd288b4cf42)
 ![T6](https://github.com/Sonykhan1121/Android_Development/assets/45848552/4e597ce4-2098-4576-b061-9396a896f7cc)
 ![T7](https://github.com/Sonykhan1121/Android_Development/assets/45848552/034d3fbd-b7db-4556-a23d-1fee950c135f)
+
+7) ### Add  menu bar and icons
+
+![mn1](https://github.com/Sonykhan1121/Android_Development/assets/45848552/1a5941a4-807c-402c-902c-c70af78f2f6f)
+![mn2](https://github.com/Sonykhan1121/Android_Development/assets/45848552/02d06dc1-a28f-4c57-8113-b9a42050b6fa)
+![mn3](https://github.com/Sonykhan1121/Android_Development/assets/45848552/cc29a121-c5b0-4824-8b3d-1be05c2c3220)
+
+
    

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+
+        app:showAsAction="always"
+        android:title=""
+        android:icon="@drawable/menu"
+        >
+            <menu>
+                <item
+                    android:icon="@drawable/addgroup"
+                    android:id="@+id/addgroup"
+                    android:title="Add Group"
+                    app:showAsAction="never"
+                    />
+                <item
+
+                    android:icon="@drawable/baseline_app_settings_alt_24"
+                    android:id="@+id/setting"
+                    android:title="Setting"
+                    app:showAsAction="never"
+                    >
+                    <menu>
+                        <item
+                            android:icon="@drawable/logout"
+                            android:id="@+id/logout"
+                            android:title="logOut"
+                            app:showAsAction="never"
+                            />
+                        <item
+                            android:icon="@drawable/about"
+                            android:id="@+id/about"
+                            android:title="About"
+                            app:showAsAction="never"
+                            />
+
+                    </menu>
+                </item>
+                <item
+                    android:id="@+id/adddevice"
+                    android:title="Add Device"
+                    android:icon="@drawable/device"
+                    app:showAsAction="never"
+                    />
+
+            </menu>
+    </item>
+</menu>
