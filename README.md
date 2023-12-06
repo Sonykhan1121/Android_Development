@@ -34,5 +34,14 @@
 ![mn2](https://github.com/Sonykhan1121/Android_Development/assets/45848552/02d06dc1-a28f-4c57-8113-b9a42050b6fa)
 ![mn3](https://github.com/Sonykhan1121/Android_Development/assets/45848552/cc29a121-c5b0-4824-8b3d-1be05c2c3220)
 
+8)  ### Desing an alert dialog and use an  github alert dialog
+
+![dl1](https://github.com/Sonykhan1121/Android_Development/assets/45848552/42c47551-d1e5-4fc4-8a8d-7996ddf7a0db)
+![dl2](https://github.com/Sonykhan1121/Android_Development/assets/45848552/ddde9886-4513-4cba-8366-bbf78b2d8db3)
+![dl3](https://github.com/Sonykhan1121/Android_Development/assets/45848552/25ff108d-bb68-4268-8e46-adf4e6f2e1dd)
+![dl4](https://github.com/Sonykhan1121/Android_Development/assets/45848552/f753c3fb-ef2b-4670-82b1-9bda11bf3168)
+![dl5](https://github.com/Sonykhan1121/Android_Development/assets/45848552/7fd0c683-2e26-4849-b337-a1e1819a1aa5)
+![dl6](https://github.com/Sonykhan1121/Android_Development/assets/45848552/80c6e1c9-3b7f-409c-bc7c-685752e6523c)
+![dl7](https://github.com/Sonykhan1121/Android_Development/assets/45848552/916e48bf-3a4b-41fd-bc18-b94a354cb239)
 
    
