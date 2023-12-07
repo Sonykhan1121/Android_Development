@@ -3,7 +3,7 @@
 1) ### Build two login interface by linear layout and relative layout
  <img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/62afcaf4-2aa4-4565-8732-2f66bd09990b" width="150" height="280">
   <img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/948bfad7-ccd8-402e-9d2e-6c2c4545f17c" width="150" height="280">
-    <img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/948bfad7-ccd8-402e-9d2e-6c2c4545f17c" width="150" height="280">
+
     
 2) ### Made a UI by nested Linear Layout
  <img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/237b89cc-d2ea-4744-9d4b-e9e16180fd23" width="150" height="280">  
