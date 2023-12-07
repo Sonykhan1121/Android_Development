@@ -21,24 +21,24 @@
 6) ### Make 7 button and by clicking them it will show Toast 7 different Toasts by FancyToast from github
 <img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/1c655fb8-957f-46db-ae9a-39a7f572c202" width="150" height="280">  
 
-<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/a1aac047-7a56-49b2-b6ec-29b2a6ed4037" width="150" height="280">  
-<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/f717dd43-143b-46eb-85e3-ac870f6a79c4" width="150" height="280">  
-<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/775db299-1dc3-4227-a223-be8bbb02f36c" width="150" height="280">  
-<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/a4cdf448-9bf6-4f9e-816f-d3181c3208b8" width="150" height="280">  
-<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/427394fd-c4bd-4049-8f6e-abd288b4cf42" width="150" height="280">  
-<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/4e597ce4-2098-4576-b061-9396a896f7cc" width="150" height="280">  
-<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/034d3fbd-b7db-4556-a23d-1fee950c135f" width="150" height="280">  
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/a1aac047-7a56-49b2-b6ec-29b2a6ed4037" width="280" height="280">  
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/f717dd43-143b-46eb-85e3-ac870f6a79c4" width="280" height="280">  
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/775db299-1dc3-4227-a223-be8bbb02f36c" width="280" height="280">  
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/a4cdf448-9bf6-4f9e-816f-d3181c3208b8" width="280" height="280">  
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/427394fd-c4bd-4049-8f6e-abd288b4cf42" width="280" height="280">  
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/4e597ce4-2098-4576-b061-9396a896f7cc" width="280" height="280">  
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/034d3fbd-b7db-4556-a23d-1fee950c135f" width="280" height="280">  
 
 7) ### Add  menu bar and icons
 
-<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/1a5941a4-807c-402c-902c-c70af78f2f6f" width="150" height="280">  
-<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/02d06dc1-a28f-4c57-8113-b9a42050b6fa" width="150" height="280">  
-<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/cc29a121-c5b0-4824-8b3d-1be05c2c3220" width="150" height="280">  
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/1a5941a4-807c-402c-902c-c70af78f2f6f" width="280" height="280">  
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/02d06dc1-a28f-4c57-8113-b9a42050b6fa" width="280" height="280">  
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/cc29a121-c5b0-4824-8b3d-1be05c2c3220" width="280" height="280">  
 
 8)  ### Desing an alert dialog and use an  github alert dialog
-<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/42c47551-d1e5-4fc4-8a8d-7996ddf7a0db" width="150" height="280">  
-<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/ddde9886-4513-4cba-8366-bbf78b2d8db3" width="150" height="280">  
-<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/25ff108d-bb68-4268-8e46-adf4e6f2e1dd" width="150" height="280">  
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/42c47551-d1e5-4fc4-8a8d-7996ddf7a0db" width="280" height="280">  
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/ddde9886-4513-4cba-8366-bbf78b2d8db3" width="280" height="280">  
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/25ff108d-bb68-4268-8e46-adf4e6f2e1dd" width="280" height="280">  
 <img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/f753c3fb-ef2b-4670-82b1-9bda11bf3168" width="150" height="280">  
 <img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/7fd0c683-2e26-4849-b337-a1e1819a1aa5" width="150" height="280">  
 <img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/80c6e1c9-3b7f-409c-bc7c-685752e6523c" width="150" height="280">  
