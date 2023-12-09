@@ -50,3 +50,7 @@
 10) ### Design a Interface with Gridlayout
 <img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/8c1d5947-892e-47cf-a8e4-e277ca352bda" width="150" height="280">  
 
+11) ### Implement two Fragment one single screen operate by two button
+
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/8f4cd39a-4fe4-4cf7-90e6-a97a0760846a" width="150" height="280">  
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/4d9b8f18-69b1-4872-84fb-a508d7ebdde4" width="150" height="280">  
