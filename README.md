@@ -54,3 +54,32 @@
 
 <img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/8f4cd39a-4fe4-4cf7-90e6-a97a0760846a" width="150" height="280">  
 <img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/4d9b8f18-69b1-4872-84fb-a508d7ebdde4" width="150" height="280">  
+
+12) ### Implement Implicit Intents like : Website visit, Calling, Camera, Share
+#### full look : 
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/99c4185f-8d4a-4cae-93f1-cd87a2013bb6" width="150" height="280">  
+
+#### first button : 
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/8a5d87f3-ab1f-4861-954e-7c0e06a740ad" width="150" height="280">  
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/62d63e11-1fe0-434f-aab7-c2959fdec180" width="150" height="280">  
+
+#### second button : 
+
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/5b914996-ea2a-4c09-bd26-3039d8af204b" width="150" height="280">  
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/7aecdc1e-02f7-4f95-ba4f-d4b9d1f7e958" width="150" height="280">  
+
+#### third button : 
+
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/0762a3a1-f938-4ee7-9ff9-04446f26890d" width="150" height="280">  
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/914e27b2-56fa-45d4-85a1-7a5a0b4b3700" width="150" height="280">  
+
+#### fourth button : 
+
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/53a19a4a-4ebb-4cce-903c-578b5fe13bde" width="150" height="280">  
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/914e27b2-56fa-45d4-85a1-7a5a0b4b3700" width="150" height="280">  
+
+#### fifth button : 
+
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/53a19a4a-4ebb-4cce-903c-578b5fe13bde" width="150" height="280">  
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/3a5f9996-98a3-4c05-8bfc-35e3f4977302" width="150" height="280">  
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/a951348e-e321-4137-be0a-073160722949" width="150" height="280">  
