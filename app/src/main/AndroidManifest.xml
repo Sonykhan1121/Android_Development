@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
-    <uses-permission android:name="android.permission.INTERNET" />
+
 
     <application
         android:allowBackup="true"
@@ -16,11 +16,8 @@
         tools:replace="android:icon"
         tools:targetApi="31">
         <activity
-            android:name=".RegistrationHomeActivity"
-            android:exported="false" />
-        <activity
-            android:name=".ExplicitViewActivity"
-            android:exported="true">
+            android:name=".BottomNavigationActivity"
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -28,8 +25,18 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".RegistrationHomeActivity"
+            android:exported="true" >
+
+        </activity>
+        <activity
+            android:name=".ExplicitViewActivity"
+            android:exported="false">
+
+        </activity>
+        <activity
             android:name=".ImplicitIntentViewActivity"
-            android:exported="false"></activity>
+            android:exported="false" />
         <activity
             android:name=".FragmentViewsActivity"
             android:exported="false" />

@@ -50,7 +50,7 @@ dependencies {
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
     implementation ("io.github.shashank02051997:FancyToast:2.0.2")
     implementation ("com.github.gabriel-TheCode:AestheticDialogs:1.3.8")
-
+    implementation ("nl.joery.animatedbottombar:library:1.1.0")
 
 
 }
