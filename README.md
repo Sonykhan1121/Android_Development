@@ -96,3 +96,8 @@
 15) ### TextView, Edittext or whole layout animation
 
 <img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/6d952e54-8a2f-4255-9a45-352186b7d993" width="200" height="330"> 
+
+16) ### Loading Screen from github
+
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/d045275d-e903-4bac-9ba8-5ad4c630fde0" width="200" height="330"> 
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/493d604b-294f-46d0-a6e5-37ae71923326" width="200" height="330"> 

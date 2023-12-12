@@ -14,7 +14,7 @@
         tools:replace="android:icon"
         tools:targetApi="31">
         <activity
-            android:name=".MovementofViewsActivity"
+            android:name=".LoadingScreenActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -23,16 +23,19 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".BottomNavigationActivity"
+            android:name=".MovementofViewsActivity"
             android:exported="false">
 
         </activity>
         <activity
-            android:name=".RegistrationHomeActivity"
+            android:name=".BottomNavigationActivity"
             android:exported="false"></activity>
         <activity
+            android:name=".RegistrationHomeActivity"
+            android:exported="false" />
+        <activity
             android:name=".ExplicitViewActivity"
-            android:exported="false"></activity>
+            android:exported="false" />
         <activity
             android:name=".ImplicitIntentViewActivity"
             android:exported="false" />

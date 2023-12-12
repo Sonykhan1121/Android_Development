@@ -52,6 +52,7 @@ dependencies {
     implementation ("com.github.gabriel-TheCode:AestheticDialogs:1.3.8")
     implementation ("nl.joery.animatedbottombar:library:1.1.0")
     implementation ("com.github.gayanvoice:android-animations-kotlin:1.0.1")
+    implementation ("com.github.ybq:Android-SpinKit:1.4.0")
 
 
 }
