@@ -101,3 +101,7 @@
 
 <img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/d045275d-e903-4bac-9ba8-5ad4c630fde0" width="200" height="330"> 
 <img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/493d604b-294f-46d0-a6e5-37ae71923326" width="200" height="330"> 
+
+17) ### Buildin animation by animation drawable file
+
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/8943e79c-63a5-470d-9fef-44547381fa04" width="200" height="330"> 
