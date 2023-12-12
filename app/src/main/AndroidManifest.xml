@@ -2,8 +2,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
-
-
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -16,7 +14,7 @@
         tools:replace="android:icon"
         tools:targetApi="31">
         <activity
-            android:name=".BottomNavigationActivity"
+            android:name=".MovementofViewsActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -25,15 +23,16 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".RegistrationHomeActivity"
-            android:exported="true" >
-
-        </activity>
-        <activity
-            android:name=".ExplicitViewActivity"
+            android:name=".BottomNavigationActivity"
             android:exported="false">
 
         </activity>
+        <activity
+            android:name=".RegistrationHomeActivity"
+            android:exported="false"></activity>
+        <activity
+            android:name=".ExplicitViewActivity"
+            android:exported="false"></activity>
         <activity
             android:name=".ImplicitIntentViewActivity"
             android:exported="false" />
