@@ -105,3 +105,8 @@
 17) ### Buildin animation by animation drawable file
 
 <img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/8943e79c-63a5-470d-9fef-44547381fa04" width="200" height="330"> 
+
+18) ### Implement a Spinner with some fruits name
+
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/1b3d2a56-0c7d-4283-b5b3-b46a7ddc1b18" width="200" height="330"> 
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/7d014b94-685e-4e1c-9d22-c70bfb42f63e" width="200" height="330"> 
