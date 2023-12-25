@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225932701169",
+    "project_id": "fcmnotification-ef428",
+    "storage_bucket": "fcmnotification-ef428.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225932701169:android:b140c8c0dc19c16ab42850",
+        "android_client_info": {
+          "package_name": "com.example.firstapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMAILCzzQerDyyGhvL9vc-u8jtooyRqGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

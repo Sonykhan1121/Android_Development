@@ -117,3 +117,9 @@
 <img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/eb645cb4-230c-4941-91e2-e65ee7fb7cff" width="200" height="330"> 
 <img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/ef8e35f5-2782-4a99-842d-274abfc55b50" width="200" height="330"> 
 <img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/fafdc176-47db-4f6e-af8c-31d9a1a395cb" width="200" height="330"> 
+
+18) ### Send Notificatin from Firebase Cloud messaging to App and send data
+
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/78731c1a-e2ba-47dc-b1b9-457aa3ea592c" width="850" height="550"> 
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/24b2bafc-7c73-4c6e-8b6c-d3abb762f6d8" width="850" height="550"> 
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/e828547b-1ae6-4bc4-b934-f09a130a7fdc" width="200" height="330"> 
