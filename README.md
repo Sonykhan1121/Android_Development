@@ -110,3 +110,10 @@
 
 <img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/1b3d2a56-0c7d-4283-b5b3-b46a7ddc1b18" width="200" height="330"> 
 <img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/7d014b94-685e-4e1c-9d22-c70bfb42f63e" width="200" height="330"> 
+
+18) ### set two button one for pop up notification and another one is for low priority notification
+
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/1aefd036-3eb8-4d79-89b2-8a3417f2e117" width="200" height="330"> 
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/eb645cb4-230c-4941-91e2-e65ee7fb7cff" width="200" height="330"> 
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/ef8e35f5-2782-4a99-842d-274abfc55b50" width="200" height="330"> 
+<img src="https://github.com/Sonykhan1121/Android_Development/assets/45848552/fafdc176-47db-4f6e-af8c-31d9a1a395cb" width="200" height="330"> 
